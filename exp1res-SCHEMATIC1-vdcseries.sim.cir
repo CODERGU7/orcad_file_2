@@ -1,0 +1,17 @@
+** Profile: "SCHEMATIC1-vdcseries"  [ D:\ae\exp1res-SCHEMATIC1-vdcseries.sim ] 
+
+** Creating circuit file "exp1res-SCHEMATIC1-vdcseries.sim.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Local Libraries :
+* From [PSPICE NETLIST] section of d:\PSpice\PSpice.ini file:
+.lib "nom.lib" 
+
+*Analysis directives: 
+.TRAN  0 10ms 0 
+.PROBE V(*) I(*) W(*) D(*) NOISE(*) 
+.INC ".\exp1res-SCHEMATIC1.net" 
+
+
+.END

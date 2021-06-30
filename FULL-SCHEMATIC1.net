@@ -1,0 +1,10 @@
+* source FULL
+D_D1         N00169 N00207 Dbreak 
+C_C1         N00268 N00207  50uF  
+D_D2         N00268 N00169 Dbreak 
+D_D3         N00241 N00207 Dbreak 
+D_D4         N00268 N00241 Dbreak 
+V_V1         N00169 N00241  
++SIN 0 10 50 0 0 0
+R_R1         0 N00207  1k  
+R_R2         N00268 0  1k  

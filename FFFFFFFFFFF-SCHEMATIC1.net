@@ -1,0 +1,6 @@
+* source FFFFFFFFFFF
+V_V1         N03281 0 0Vdc
+V_V2         N03190 0 0Vdc
+Q_Q1         VCE VBE 0 Q2N2222
+R_R1         VCE N03281  1k  
+R_R2         N03190 VBE  100k  

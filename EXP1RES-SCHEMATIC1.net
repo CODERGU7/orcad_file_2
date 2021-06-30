@@ -1,0 +1,6 @@
+* source EXP1RES
+R_R4         N00965 0  1k  
+V_V10         N00965 0  
++SIN 0 10 1000 0 0 0
+R_R5         N00965 0  2k  
+R_R6         N00965 0  3k  

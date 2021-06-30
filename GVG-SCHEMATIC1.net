@@ -1,0 +1,6 @@
+* source GVG
+V_VGS         N00282 0 2Vdc
+V_VDS         N00093 0 1.8Vdc
+M_M1         N00093 N00282 0 0 Mbreakn  
++ L=900n  
++ W=540n         
